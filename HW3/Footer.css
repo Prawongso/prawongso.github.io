@@ -1,0 +1,43 @@
+/*footer class section*/
+.footer {
+    background-color: #2e2e2e;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: auto;
+    text-align: center;
+    color: white;
+    
+  }
+  table, th, td {
+  padding: 15px;
+  }
+  table {
+  width: 100%;
+  }
+  .footer2 {
+    background-color: #000000;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: auto;
+    color: white;
+    
+  }
+  .copyright {
+    background-color: #000000;
+    padding-bottom: 15px;
+    width: 100%;
+    margin-bottom: auto;
+    text-align: center;
+    color: #444444;
+    font-style: italic;
+  }
+  /*footer class section*/
+a.foot { 
+    text-decoration: none; 
+}
+a.foot:link, a.foot:visited {
+    color: white;
+}
+a.foot:hover {
+    color: rgb(255, 0, 0);
+}
